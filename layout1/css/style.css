@@ -1,0 +1,179 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.nav
+{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    margin-bottom: 20px;
+}
+.logo
+{
+    height: 60px;
+    width: 10%;
+    float: left;
+}
+.logo h2
+{
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.companyname
+{
+    height: 60px;
+    width: 90%;
+    float: left;
+}
+.companyname h2
+{
+    color: white;
+    text-align: center;
+    line-height: 60px;
+}
+.homecontainer
+{
+    height: auto;
+    width: 80%;
+    margin: auto;
+}
+.homecontainer h2
+{
+    padding: 20px 0px;
+}
+.imgcontainer
+{
+    height: 350px;
+    width: 80%;
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin: auto; 
+}
+.imgcontainer img
+{
+    height:350px;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100);
+    transition: 0.7s;
+}
+.imgcontainer img:hover
+{
+    filter: grayscale(0);
+}
+.gallerycontainer
+{
+    height: auto;
+    width: 80%;
+    margin: auto;
+}
+.gallerycontainer h2
+{
+    padding: 20px 0px;
+}
+.images
+{
+    height: 350px;
+    width: 80%;
+    margin: auto;
+}
+.box1
+{
+    height: 250px;
+    width: 23%;
+    background-color: bisque;
+    float: left;
+    margin: 50px 1% 50px 1%;
+    border-radius: 20px;
+}
+.box1 img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100);
+    transition: 0.7s;
+}
+.box1 img:hover
+{
+    filter: grayscale(0);
+}
+.box2
+{
+    height: 250px;
+    width: 23%;
+    background-color: rgb(199, 141, 194);
+    float: left;
+    margin: 50px 1% 50px 1%;
+    border-radius: 20px;
+}
+.box2 img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100);
+    transition: 0.7s;
+}
+.box2 img:hover
+{
+    filter: grayscale(0);
+}
+.box3
+{
+    height: 250px;
+    width: 23%;
+    background-color: rgb(128, 177, 128);
+    float: left;
+    margin: 50px 1% 50px 1%;
+    border-radius: 20px;
+}
+.box3 img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100);
+    transition: 0.7s;
+}
+.box3 img:hover
+{
+    filter: grayscale(0);
+}
+.box4
+{
+    height: 250px;
+    width: 23%;
+    background-color: rgb(106, 173, 182);
+    float: left;
+    margin: 50px 1% 50px 1%;
+    border-radius: 20px;
+}
+.box4 img
+{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    filter: grayscale(100);
+    transition: 0.7s;
+}
+.box4 img:hover
+{
+    filter: grayscale(0);
+}
+.endbar
+{
+   height: 60px;
+   width: 100%;
+   background-color: black;
+}
+.endbar h3
+{
+    color: white;
+    padding:15px;
+}
